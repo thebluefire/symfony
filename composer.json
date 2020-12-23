@@ -1,0 +1,10 @@
+{
+    "require": {
+        "psr/log": "^1.1",
+        "sentry/sdk": "^3.1",
+        "sentry/sentry": "^3.1",
+        "graylog2/gelf-php": "^1.6",
+        "symfony/monolog-bundle": "^3.6",
+        "symfony/form": "^5.2"
+    }
+}
